@@ -14,4 +14,9 @@ Use to learn about the GIT and Github
 9) git config --global user.name                      -- use to check the user name
 10) git config --global --list                        -- use to get all config of the user account like user name and user email
 11) git remote add origin"(address of the repositiory of github)"         -- use to set the github repositiory address where you wanna store
-
+12) git remote -u origin"(address of the repositiory of github)"          -- use to update the exsiting github repositiory address where you wanna store
+                                                                  or
+    git remote set--url origin"(address of the repositiory of github)"
+13) git remote                                                            -- use to check the repo connection is done or not
+14) git remote -v                                                         -- use to check the path of the repositiory address
+15) git branch -M main                                                    -- use to change the branch (use -M that is force to change the Branch to the Main)
