@@ -7,3 +7,4 @@ Steps:
 3) git add                           -- use to add the file in the project
 4) git commit                        -- use to save our changes to local machine 
    git commit -m "(use to give your owm message during commit/save)"
+5) git status                        -- use to see the status/files of the directory
