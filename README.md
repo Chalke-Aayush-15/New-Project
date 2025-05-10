@@ -20,3 +20,4 @@ Use to learn about the GIT and Github
 13) git remote                                                            -- use to check the repo connection is done or not
 14) git remote -v                                                         -- use to check the path of the repositiory address
 15) git branch -M main                                                    -- use to change the branch (use -M that is force to change the Branch to the Main)
+16) git push origin main                                                  -- to save the file into the repo 
